@@ -10,4 +10,4 @@ View it live at https://codelikesuraj.github.io/Ableton_clone/
 - ~~Fix background images not showing~~
 - Add SEO meta tags
 - Make mobile responsive
-- Set text and background to white and deep blue respectively when selected/highlighted
+- ~~Set text and background to white and deep blue respectively when selected/highlighted~~
